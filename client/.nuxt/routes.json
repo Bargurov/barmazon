@@ -1,0 +1,100 @@
+[
+  {
+    "name": "address",
+    "path": "/address",
+    "component": "C:\\\\Users\\\\Bar\\\\barmazon\\\\client\\\\pages\\\\address\\\\index.vue",
+    "chunkName": "pages/address/index",
+    "_name": "_34d65f36"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "C:\\\\Users\\\\Bar\\\\barmazon\\\\client\\\\pages\\\\cart.vue",
+    "chunkName": "pages/cart",
+    "_name": "_0395db32"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\Bar\\\\barmazon\\\\client\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_57e0e6b2"
+  },
+  {
+    "name": "orders",
+    "path": "/orders",
+    "component": "C:\\\\Users\\\\Bar\\\\barmazon\\\\client\\\\pages\\\\orders.vue",
+    "chunkName": "pages/orders",
+    "_name": "_3d281fec"
+  },
+  {
+    "name": "payment",
+    "path": "/payment",
+    "component": "C:\\\\Users\\\\Bar\\\\barmazon\\\\client\\\\pages\\\\payment.vue",
+    "chunkName": "pages/payment",
+    "_name": "_78070a8f"
+  },
+  {
+    "name": "placeorder",
+    "path": "/placeorder",
+    "component": "C:\\\\Users\\\\Bar\\\\barmazon\\\\client\\\\pages\\\\placeorder.vue",
+    "chunkName": "pages/placeorder",
+    "_name": "_413f372e"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "C:\\\\Users\\\\Bar\\\\barmazon\\\\client\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "_name": "_43224e9c"
+  },
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "C:\\\\Users\\\\Bar\\\\barmazon\\\\client\\\\pages\\\\search.vue",
+    "chunkName": "pages/search",
+    "_name": "_36a3eda2"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\Users\\\\Bar\\\\barmazon\\\\client\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_1ed446c2"
+  },
+  {
+    "name": "address-add",
+    "path": "/address/add",
+    "component": "C:\\\\Users\\\\Bar\\\\barmazon\\\\client\\\\pages\\\\address\\\\add.vue",
+    "chunkName": "pages/address/add",
+    "_name": "_5db9e374"
+  },
+  {
+    "name": "address-id",
+    "path": "/address/:id",
+    "component": "C:\\\\Users\\\\Bar\\\\barmazon\\\\client\\\\pages\\\\address\\\\_id.vue",
+    "chunkName": "pages/address/_id",
+    "_name": "_0714afe6"
+  },
+  {
+    "name": "products-id",
+    "path": "/products/:id?",
+    "component": "C:\\\\Users\\\\Bar\\\\barmazon\\\\client\\\\pages\\\\products\\\\_id.vue",
+    "chunkName": "pages/products/_id",
+    "_name": "_4866c9c2"
+  },
+  {
+    "name": "reviews-id",
+    "path": "/reviews/:id?",
+    "component": "C:\\\\Users\\\\Bar\\\\barmazon\\\\client\\\\pages\\\\reviews\\\\_id.vue",
+    "chunkName": "pages/reviews/_id",
+    "_name": "_23908bc6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Bar\\\\barmazon\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e38d78ca"
+  }
+]
